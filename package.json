@@ -3,6 +3,17 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "crypto-js": "^4.2.0",
+    "crypto.js": "^3.3.4",
+    "dotenv": "^16.4.7",
+    "jsonwebtoken": "^9.0.2",
     "servor": "^4.0.2"
-  }
+  },
+  "name": "saving-the-token-and-setting-it-in-the-cookie---practice-assignment-1",
+  "version": "1.0.0",
+  "description": "- Understand the process of JWT token encryption and decryption for secure data transmission.",
+  "main": "script.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
